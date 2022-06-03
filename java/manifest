@@ -4,10 +4,5 @@
 	],
 	"boot-classes": [
 		"io.nernar.innercore.longfallboots.LongFallBoots"
-	],
-	"options": [
-		"-cp",
-		"/storage/emulated/0/games/horizon/includes/2.3.0b112.jar"
-	],
-	"library-dirs": []
+	]
 }

@@ -1,7 +1,8 @@
 # Long Fall Boots
 
-[![v1.0](https://img.shields.io/badge/version-1.0-green.svg)]()
-[![Support](https://img.shields.io/github/repo-size/nernar/long-fall-boots)](https://vk.com/nernar)
-[![License](https://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+![Version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://raw.githubusercontent.com/nernar/long-fall-boots/master/mod.info&color=D19121&logoColor=white&logo=clockify&style=flat-square)
+![Lines of code](https://img.shields.io/tokei/lines/github/nernar/long-fall-boots?color=2727E3&logoColor=white&logo=sourcegraph&style=flat-square)
+![License](https://img.shields.io/github/license/nernar/long-fall-boots?color=D22128&logoColor=white&logo=apache&style=flat-square)
+[![Telegram](https://img.shields.io/badge/channel-gray?logo=telegram&style=flat-square)](https://t.me/ntInsideChat)
 
 Boots that negate all fall damage when you wear them.

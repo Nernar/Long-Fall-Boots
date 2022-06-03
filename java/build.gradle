@@ -1,8 +1,0 @@
-apply plugin: "com.android.library"
-
-android {
-    defaultConfig {
-        applicationId "com.nernar.innercore.longfallboots"
-        minSdkVersion 19
-    }
-}
